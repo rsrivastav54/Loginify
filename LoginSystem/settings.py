@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Loginify'
+    'Loginify',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
